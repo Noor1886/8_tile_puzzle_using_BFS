@@ -7,6 +7,7 @@ The data to be fed in the matrix is supposed to be a column wise addition,
 so for example we have the goal matrix is [[1,4,7 ],[2,5,8],[3,6,0]]
 It is to written as [[1,2,3], [4,5,6], [7,8,6]] i.e the rows become coumns.
 
+![Screenshot from 2023-03-05 01-32-33](https://user-images.githubusercontent.com/102131442/222945730-69e4e6a2-2b86-495b-bee0-8e7f9bdc461e.png)
 
 
 
