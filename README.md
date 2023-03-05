@@ -24,3 +24,8 @@ python3 directory of the saved code (Initial test case)
 
 You can modify the specified goal state in the code to the desired value
 
+
+## Understanding the Output
+
+
+
