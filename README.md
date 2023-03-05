@@ -26,6 +26,9 @@ You can modify the specified goal state in the code to the desired value
 
 
 ## Understanding the Output
+Your Output should generate 3 files which are:
+
+![Screenshot from 2023-03-05 01-34-51](https://user-images.githubusercontent.com/102131442/222945687-67804168-c4ab-4291-bfcd-69067ae537f2.png)
 
 
 
